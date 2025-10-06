@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there 👋, I'm Wilfred!
 
-<!--
-**WSGatungo/WSGatungo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Junior Data Science Analyst, based in Nairobi, Kenya. With a solid foundation in data analysis, machine learning, and statistical modeling, I specialize in transforming complex datasets into actionable insights. Proficient in Python, SQL, Power BI, and advanced ML/DL frameworks, I’m passionate about driving data-informed decisions in tech and business domains. 
 
-Here are some ideas to get you started:
+🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+Programming & Tools: Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Keras, OpenCV), SQL, Git/GitHub, Apache Spark
+
+
+
+Data Visualization: Matplotlib, Seaborn, Plotly, Power BI, Excel (VBA, Pivot Tables, Power Query)
+
+
+
+Machine Learning & AI: Predictive modeling, Statistical analysis, Image processing, Neural networks
+
+
+
+Other: Data cleaning, Forecasting, KPI tracking, Process optimization
