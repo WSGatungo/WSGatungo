@@ -1,4 +1,4 @@
-Hi there 👋, I'm Wilfred!
+Hi there 👋, I'm Gatusso!
 
 I’m a Junior Data Science Analyst, based in Nairobi, Kenya. With a solid foundation in data analysis, machine learning, and statistical modeling, I specialize in transforming complex datasets into actionable insights. Proficient in Python, SQL, Power BI, and advanced ML/DL frameworks, I’m passionate about driving data-informed decisions in tech and business domains. 
 
